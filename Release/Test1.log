@@ -1,0 +1,10 @@
+﻿Build started 2014-02-09 12:57:32.
+     1>Project "C:\Users\przem_000\documents\visual studio 2013\Projects\Test1\Test1\Test1.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         D:\Pliki programów (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\przem_000\documents\visual studio 2013\Projects\Test1\Release\Test1.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\opencv248\build\x86\vc10\lib opencv_calib3d248.lib opencv_contrib248.lib opencv_core248.lib opencv_features2d248.lib opencv_flann248.lib opencv_gpu248.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248.lib opencv_ml248.lib opencv_nonfree248.lib opencv_objdetect248.lib opencv_ocl248.lib opencv_photo248.lib opencv_stitching248.lib opencv_superres248.lib opencv_ts248.lib opencv_video248.lib opencv_videostab248.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\przem_000\documents\visual studio 2013\Projects\Test1\Release\Test1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\przem_000\documents\visual studio 2013\Projects\Test1\Release\Test1.lib" /MACHINE:X86 /SAFESEH Release\Modyfikacje.obj
+     1>LINK : fatal error LNK1104: cannot open file 'C:\Users\przem_000\documents\visual studio 2013\Projects\Test1\Release\Test1.exe'
+     1>Done Building Project "C:\Users\przem_000\documents\visual studio 2013\Projects\Test1\Test1\Test1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.07

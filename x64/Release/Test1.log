@@ -1,0 +1,15 @@
+﻿Build started 2014-03-17 22:37:41.
+     1>Project "C:\Users\przem_000\Documents\Visual Studio 2013\Projects\Inverse\Test1\Test1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Pliki programów (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\opencv248\build\include /ID:\opencv248\build\include\opencv2 /ID:\opencv248\build\include\opencv /ID:\opencv248\build\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         D:\Pliki programów (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\przem_000\Documents\Visual Studio 2013\Projects\Inverse\x64\Release\Test1.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\opencv248\build\x64\vc12\lib /LIBPATH:D:\opencv248\build\x64\vc12\lib opencv_calib3d248.lib opencv_contrib248.lib opencv_core248.lib opencv_features2d248.lib opencv_flann248.lib opencv_gpu248.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248.lib opencv_ml248.lib opencv_nonfree248.lib opencv_objdetect248.lib opencv_ocl248.lib opencv_photo248.lib opencv_stitching248.lib opencv_superres248.lib opencv_ts248.lib opencv_video248.lib opencv_videostab248.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\przem_000\Documents\Visual Studio 2013\Projects\Inverse\x64\Release\Test1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\przem_000\Documents\Visual Studio 2013\Projects\Inverse\x64\Release\Test1.lib" /MACHINE:X64 x64\Release\Source.obj
+         Generating code
+         Finished generating code
+         Test1.vcxproj -> C:\Users\przem_000\Documents\Visual Studio 2013\Projects\Inverse\x64\Release\Test1.exe
+     1>Done Building Project "C:\Users\przem_000\Documents\Visual Studio 2013\Projects\Inverse\Test1\Test1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.07
